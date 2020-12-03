@@ -1,1 +1,1 @@
-some text
+stash push example
